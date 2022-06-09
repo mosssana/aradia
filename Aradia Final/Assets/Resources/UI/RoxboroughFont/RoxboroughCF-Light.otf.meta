@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e35d560a19085d94a97fdce0be4d98bb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Roxborough CF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e0491d18132cba44a97115e67af2e1c4, type: 3}
+  - {fileID: 12800000, guid: 61b555c2c388bbb40b484f0d8a33275b, type: 3}
+  - {fileID: 12800000, guid: b39a8a1fdcfde7e4182837700e71493a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

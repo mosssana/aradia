@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: dd8c508ac97a56a44abed9ed1037db37
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Roxborough CF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85be0ef3c540ff548856e8c8c9ec27a7, type: 3}
+  - {fileID: 12800000, guid: e0491d18132cba44a97115e67af2e1c4, type: 3}
+  - {fileID: 12800000, guid: 666fdfaa683bf6443b1245ae0c53e631, type: 3}
+  - {fileID: 12800000, guid: aa4d4f3301dbad3439653d3a99bbee14, type: 3}
+  - {fileID: 12800000, guid: 7a7c315b626bae64d8f332caf88b7297, type: 3}
+  - {fileID: 12800000, guid: 5597352f47f99ec4992ac51f5f2dd3ad, type: 3}
+  - {fileID: 12800000, guid: 61b555c2c388bbb40b484f0d8a33275b, type: 3}
+  - {fileID: 12800000, guid: 159c19f748c1d2a4b9d26b601c4c700f, type: 3}
+  - {fileID: 12800000, guid: d695863f3f324194bb9c971efe0a189c, type: 3}
+  - {fileID: 12800000, guid: bb1bfa95e6073324c999e5733e6d902c, type: 3}
+  - {fileID: 12800000, guid: b39a8a1fdcfde7e4182837700e71493a, type: 3}
+  - {fileID: 12800000, guid: 846d093a846fdbb4695ab3b55a155722, type: 3}
+  - {fileID: 12800000, guid: 8a5791368abfba044a17d339475fe783, type: 3}
+  - {fileID: 12800000, guid: d5e7cfab94ea2734583ad7defb6fd592, type: 3}
+  - {fileID: 12800000, guid: e35d560a19085d94a97fdce0be4d98bb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
